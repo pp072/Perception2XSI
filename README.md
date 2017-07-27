@@ -14,6 +14,7 @@ https://youtu.be/nCxvTVdq5Hs
 ## Install
 - Build and copy files into directory Users\Autodesk\Softimage_2014_SP2\Application\Plugins\Perception\bin\nt-x86-64
 - don't forget copy settingsPN.txt
+- run command from XSI: PerceptionNeuron()
 ## in Axis Neuron settings:
 
 - General:
